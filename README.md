@@ -2,10 +2,8 @@
 - 👀 I’m interested in game dev, and programming
 - 🌱 I’m currently learning python, c++, PHP and others
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me WhatsApp: +27731523651
-                     Email: goldenaxe2024@gmail.com
-                     Telegram: +27731523651
-                     Facebook: facebook.com/golden.axe
+- 📫 How to reach me Email: goldenaxe2024@gmail.com
+                     
 
 <!---
 GoldenAxe78/GoldenAxe78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
