@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GoldenAxe78
 - 👀 I’m interested in game dev, and programming
-- 🌱 I’m currently learning python, c++, PHP and others
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python, C++ and Python
+- 💞️ I’m looking to collaborate on ... small python projects 
 - 📫 How to reach me Email: goldenaxe2024@gmail.com
                      
 
