@@ -1,8 +1,8 @@
-- 👋 Hi, I am The Golden Axe
+- 👋 Hi, I am Sam🍀
 - 👀 I’m interested in game and web dev, machine and deep learning with computer vision and data science. 
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on small python projects, that are related to computer vision.
-- 📫 You can send me an email at: goldenaxe2024@gmail.com
+- 🌱 I’m currently learning C++, Python and Web Design
+- 💞️ I’m looking to collaborate on anything related to web dev and machine learning
+- 📫 You can send me an email at: samuelfatoki78@gmail.com
                      
 
 <!---
